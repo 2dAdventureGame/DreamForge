@@ -1,0 +1,9 @@
+// Path: artifacts/grade1_term1.json
+   {
+     "term": 1,
+     "weeks": [
+       {"week": 1, "theme": "Space (Astronaut)", "start_date": "2027-01-04", ...},
+       {"week": 2, "theme": "Pancakes (Chef)", "start_date": "2027-01-11", ...},
+       {"week": 4, "theme": "Nature (Gardener)", "start_date": "2027-01-25", ...}
+     ]
+   }

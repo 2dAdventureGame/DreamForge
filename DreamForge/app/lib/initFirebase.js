@@ -1,0 +1,3 @@
+// Path: app/lib/initFirebase.js
+   import { db } from './firebase';
+   ...

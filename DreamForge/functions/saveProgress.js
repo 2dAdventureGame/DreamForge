@@ -1,0 +1,3 @@
+// Path: functions/saveProgress.js
+    import { db } from '../app/lib/firebase';
+    ...

@@ -1,0 +1,9 @@
+// Path: artifacts/student_progress.json
+   {
+     "student_id": "lila_001",
+     "name": "Lila",
+     "term": 1,
+     "completed_lessons": [...],
+     "ledger": [...],
+     "dream_journal": {...}
+   }

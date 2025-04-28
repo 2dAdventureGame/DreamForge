@@ -1,0 +1,3 @@
+// Path: app/lib/firebase.js
+   import { initializeApp } from 'firebase/app';
+   ...

@@ -1,0 +1,3 @@
+// Path: functions/getLessons.js
+   import { db } from '../app/lib/firebase';
+   ...
